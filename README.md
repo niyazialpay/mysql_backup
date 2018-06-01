@@ -1,1 +1,1 @@
-# mysql_backup
+# Mysql Backup Script
